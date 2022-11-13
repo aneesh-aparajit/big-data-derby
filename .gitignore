@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.deta
+.mpy_cache
+*.pkl
+*.csv
+model/
+__pycache__
+.DS_Store
+*.ipynb
